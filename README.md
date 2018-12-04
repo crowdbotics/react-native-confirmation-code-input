@@ -1,5 +1,8 @@
-# react-native-confirmation-code-input
+## Forked repo from react-native-confirmation-code-input
 A react-native confirmation code input for both IOS and Android
+
+## Fix Issue
+https://github.com/ttdung11t2/react-native-confirmation-code-input/issues/14#issuecomment-388302438
 
 ## Features
 - A user-friendly component for inputting confirmation code
